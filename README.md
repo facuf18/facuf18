@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">Full Stack Developer con formación en JavaScript, React, Redux, NodeJS y PostgreSQL, entre otras tecnologías. 
-Durante varios años me dediqué a estudiar Ingeniería Electromecánica, pero durante la pandemia me plantee si quería dedicarme a ese rubro durante del resto de mi vida. Investigando y probando cosas nuevas me di cuenta de que no. 
+<h3 align="center">Full Stack Developer con formación en JavaScript, React, Redux, NodeJS y PostgreSQL, entre otras tecnologías.
+<br/>
+Durante varios años me dediqué a estudiar Ingeniería Electromecánica, pero durante la pandemia me plantee si quería dedicarme a ese rubro durante del resto de mi vida. Investigando y probando cosas nuevas me di cuenta de que no.
+<br/>
 Tuve la posibilidad de anotarme a los cursos de Desarrollo Frontend en Coderhouse y ahí me di cuenta de que la programación es a lo que me quiero dedicar. En 2022, decidí ir por todo así que me inscribí en el Bootcamp Full Stack de Soy Henry y fue una de las mejores decisiones que tomé en mi vida. Aprendí y disfrute mucho durante el proceso de cursado y, sobre todo, en los proyectos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facuf18&label=Profile%20views&color=0e75b6&style=flat" alt="facuf18" /> </p>
