@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/facundofaccioli" target="blank"><img align="center" src="https://camo.githubusercontent.com/8d7fb5859a2748bacf328eeff8e53540636b1e26e8d983800480f81a9b121994/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d617232312e737667" alt="facundofaccioli" height="150" width="40" /></a>
+<a href="https://linkedin.com/in/facundofaccioli" target="blank"><img align="center" src="https://camo.githubusercontent.com/8d7fb5859a2748bacf328eeff8e53540636b1e26e8d983800480f81a9b121994/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d617232312e737667" alt="facundofaccioli" height="50" width="100" /></a>
 <a href="mailto:facufaccioli18@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/e1fb4ce58fc1074489bdbdacd0c175ffa7cbd1182ecb3ac4cb77ea8b8271288f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="facundofaccioli" height="50" width="50" /></a>
 </p>
 
