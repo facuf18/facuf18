@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Facundo Faccioli</h1>
-<h3 align="center">Full Stack Developer with formation in JavaScript, React, Redux, NodeJS y PostgreSQL, and some other technologies.</h3>
+<h1 align="center">Hi 👋, I'm Facundo</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/facundofaccioli" target="blank"><img align="center" src="https://camo.githubusercontent.com/8d7fb5859a2748bacf328eeff8e53540636b1e26e8d983800480f81a9b121994/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d617232312e737667" alt="facundofaccioli" height="50" width="100" /></a>
-<a href="mailto:facufaccioli18@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/e1fb4ce58fc1074489bdbdacd0c175ffa7cbd1182ecb3ac4cb77ea8b8271288f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="facundofaccioli" height="50" width="50" /></a>
-</p>
+<p align="justify">Web developer specialized in front-end, passionate about programming and continuous learning. I create dynamic, interactive, and responsive web applications using JavaScript, TypeScript, React, Next.js, among other technologies. I have knowledge in both front-end and back-end. Currently, I am looking for new challenges that allow me to continue improving as a developer and as a person.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facuf18&label=Profile%20views&color=0e75b6&style=flat" alt="facuf18" /> </p>
+<div align='center'>
+  <img src='https://i.pinimg.com/564x/db/93/35/db9335000528d629a781de04f9f6326c.jpg' width='300' />
+</div>
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuf18" alt="facuf18" /></a> </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align='center'>
+  <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/typescript-2.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/next-js.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width='60px' height='60px' />
+  <img src='https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg' width='60px' height='60px' />
+</div>
